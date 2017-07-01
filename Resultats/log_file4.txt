@@ -1,0 +1,129 @@
+Génome indexé et LCP crée
+318.154
+Kmers construits!
+320.539
+Kmers mappés!
+580.113
+Read 0 :
+	Kmer 0	N0	-5419137	N0	-3564052	N0	5200770	
+	Kmer 1	N1	-3564048	
+	Kmer 2	N1	-3564047	
+	Kmer 3	N1	-3564044	
+	Kmer 4	1	3685822	
+	Kmer 5	1	3685823	
+	Kmer 6	1	3685824	
+	Kmer 7	1	3685825	
+	Kmer 8	1	3685826	
+	Kmer 9	1	3685827	
+	Kmer 10	1	3685828	
+	Kmer 11	1	3685829	
+	Kmer 12	1	3685830	
+	Kmer 13	1	3685831	
+	Kmer 14	1	3685832	
+	Kmer 15	1	3685833	
+	Kmer 16	1	3685834	
+	Kmer 17	1	3685835	
+	Kmer 18	1	3685836	
+	Kmer 19	1	3685837	
+Read 1 :
+	Kmer 0	N0	-935590	
+	Kmer 1	
+	Kmer 2	
+	Kmer 3	
+	Kmer 4	
+	Kmer 5	
+	Kmer 6	
+	Kmer 7	
+	Kmer 8	
+	Kmer 9	
+	Kmer 10	
+	Kmer 11	
+	Kmer 12	
+	Kmer 13	
+	Kmer 14	
+	Kmer 15	
+	Kmer 16	
+	Kmer 17	
+	Kmer 18	
+	Kmer 19	
+	Kmer 20	
+	Kmer 21	
+	Kmer 22	
+	Kmer 23	
+	Kmer 24	
+	Kmer 25	
+	Kmer 26	
+	Kmer 27	
+	Kmer 28	
+	Kmer 29	
+	Kmer 30	
+	Kmer 31	
+	Kmer 32	
+Read 2 :
+	Kmer 0	N0	1642685	
+	Kmer 1	N1	1642686	
+	Kmer 2	N1	1642687	
+	Kmer 3	N1	1642688	
+	Kmer 4	N1	1642689	
+	Kmer 5	N1	1642690	
+	Kmer 6	N1	1642691	
+	Kmer 7	N1	1642693	
+	Kmer 8	N1	1642694	
+	Kmer 9	N1	1642695	
+	Kmer 10	N1	1642696	
+	Kmer 11	N1	1642697	
+	Kmer 12	N1	1642698	
+	Kmer 13	N1	1642699	
+	Kmer 14	N1	1642700	
+	Kmer 15	N1	1642701	
+	Kmer 16	N1	1642702	
+	Kmer 17	N1	1642704	
+	Kmer 18	N1	1642705	
+	Kmer 19	
+	Kmer 20	
+	Kmer 21	
+	Kmer 22	
+	Kmer 23	
+	Kmer 24	
+	Kmer 25	
+	Kmer 26	
+	Kmer 27	
+	Kmer 28	
+	Kmer 29	
+	Kmer 30	
+	Kmer 31	
+	Kmer 32	
+Read 3 :
+	Kmer 0	1	-121860	
+	Kmer 1	1	-121859	
+	Kmer 2	1	-121858	
+	Kmer 3	1	-121857	
+	Kmer 4	1	-121856	
+	Kmer 5	1	-121855	
+	Kmer 6	1	-121854	
+	Kmer 7	1	-121853	
+	Kmer 8	1	-121852	
+	Kmer 9	1	-121851	
+	Kmer 10	1	-121850	
+	Kmer 11	1	-121849	
+	Kmer 12	1	-121848	
+	Kmer 13	1	-121847	
+	Kmer 14	1	-121846	
+	Kmer 15	1	-121845	
+	Kmer 16	1	-121844	
+	Kmer 17	1	-121843	
+	Kmer 18	1	-121842	
+	Kmer 19	1	-121841	
+	Kmer 20	1	-121840	
+	Kmer 21	1	-121839	
+	Kmer 22	1	-121838	
+	Kmer 23	1	-121837	
+	Kmer 24	1	-121836	
+	Kmer 25	1	-121835	
+	Kmer 26	1	-121834	
+	Kmer 27	1	-121833	
+	Kmer 28	1	-121832	
+	Kmer 29	1	-121831	
+	Kmer 30	1	-121830	
+	Kmer 31	1	-121829	
+635.514

@@ -1,0 +1,22 @@
+CXX=g++
+CPPFLAGS=-c -g -Wall -pedantic -ansi -O3 -std=c++11 
+LDFLAGS=
+SOURCES= Sequence_FastX.cpp FakeSeq.cpp Sequence_FastA.cpp  FastA_tools.cpp Sequence_FastQ.cpp FastQ_tools.cpp kmer.cpp SA.cpp mapping.cpp suffixe.cpp  main_map.cpp 
+OBJECTS=$(SOURCES:.cpp=.o)
+EXECUTABLE=myseqcpp
+
+all: $(EXECUTABLE)
+
+$(EXECUTABLE): $(OBJECTS) 
+	$(CXX) $(LDFLAGS) -o $@ $^
+
+%.o: %.cpp
+	$(CXX) $(CPPFLAGS) -o $@ $^
+
+#Nettoyage
+.PHONY: clean, javel 
+
+clean:
+	rm *.o 
+javel: clean
+	rm $(EXECUTABLE)
